@@ -5,6 +5,7 @@ Ndk的初步学习
 -------------------------------------------------------------------------------
 ## 参考的文章有：
 1》Android开发学习之路--NDK、JNI之初体验，http://blog.csdn.net/eastmoon502136/article/details/50759209；
+
 2》android studio下的NDK开发详解(一)，http://www.th7.cn/Program/Android/201509/550864.shtml
 再次感谢他们的技术分享。
 
